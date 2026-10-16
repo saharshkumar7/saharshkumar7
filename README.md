@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="SAHARSH KUMAR" width="100%"/>
+<img src="https://raw.githubusercontent.com/saharshkumar7/saharshkumar7/main/hero.svg" alt="SAHARSH KUMAR" width="100%"/>
 
-<img src="assets/stats.svg" alt="stats" width="100%"/>
+<img src="https://raw.githubusercontent.com/saharshkumar7/saharshkumar7/main/stats.svg" alt="stats" width="100%"/>
 
-<a href="https://github.com/saharshkumar7"><img src="assets/portfolio.svg" alt="PORTFOLIO"/></a> <a href="https://www.linkedin.com/in/saharshkumar7"><img src="assets/linkedin.svg" alt="LINKEDIN"/></a> <a href="mailto:saharshkumar92@gmail.com"><img src="assets/email.svg" alt="EMAIL"/></a>
+<a href="https://github.com/saharshkumar7"><img src="https://raw.githubusercontent.com/saharshkumar7/saharshkumar7/main/portfolio.svg" alt="PORTFOLIO"/></a> <a href="https://www.linkedin.com/in/saharshkumar7"><img src="https://raw.githubusercontent.com/saharshkumar7/saharshkumar7/main/linkedin.svg" alt="LINKEDIN"/></a> <a href="mailto:saharshkumar92@gmail.com"><img src="https://raw.githubusercontent.com/saharshkumar7/saharshkumar7/main/email.svg" alt="EMAIL"/></a>
 
 </div>
 
